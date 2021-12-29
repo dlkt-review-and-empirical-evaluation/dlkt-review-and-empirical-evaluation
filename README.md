@@ -17,8 +17,10 @@ Results and code for evaluating and comparing (deep) knowledge-tracing models an
 
 ### Non-DLKT Baselines
 
-- GLR
-- BKT
+- GLR [used existing implementation](https://github.com/theophilee/learner-performance-prediction)
+
+- BKT used existing implementations ([1](https://github.com/IEDMS/standard-bkt),[2](https://github.com/myudelson/hmm-scalable))
+
 
 ### Naive baselines
 
